@@ -6,6 +6,7 @@
 
 package OldCurve25519ScalarMult
 
+// OldScalarMult -> noasm
 func OldScalarMult(out, in, base *[32]byte) {
 	oldScalarMultGeneric(out, in, base)
 }
