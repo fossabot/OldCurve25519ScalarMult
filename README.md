@@ -7,3 +7,5 @@
 [![GitHubRelease](https://img.shields.io/github/release/johnsonjh/OldCurve25519ScalarMult.svg)](https://github.com/johnsonjh/OldCurve25519ScalarMult/releases/)
 [![GitHubTag](https://img.shields.io/github/tag/johnsonjh/OldCurve25519ScalarMult.svg)](https://github.com/johnsonjh/OldCurve25519ScalarMult/tags/)
 [![LocCount](https://img.shields.io/tokei/lines/github/johnsonjh/OldCurve25519ScalarMult.svg)](https://github.com/XAMPPRocky/tokei)
+[![GitHubCodeSize](https://img.shields.io/github/languages/code-size/johnsonjh/OldCurve25519ScalarMult.svg)](https://github.com/johnsonjh/OldCurve25519ScalarMult)
+
