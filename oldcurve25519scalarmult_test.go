@@ -10,7 +10,7 @@ import (
 	"testing"
 )
 
-//const expectedHex = "89161fde887b2b53de549af483940106ecc114d6982daa98256de23bdf77661a"
+// const expectedHex = "89161fde887b2b53de549af483940106ecc114d6982daa98256de23bdf77661a"
 
 func TestTestVectors(t *testing.T) {
 	t.Run("Generic", func(t *testing.T) { testTestVectors(t, oldScalarMultGeneric) })
