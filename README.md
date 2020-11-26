@@ -7,5 +7,6 @@
 [![GitHubTag](https://img.shields.io/github/tag/johnsonjh/OldCurve25519ScalarMult.svg)](https://github.com/johnsonjh/OldCurve25519ScalarMult/tags/)
 [![LocCount](https://img.shields.io/tokei/lines/github/johnsonjh/OldCurve25519ScalarMult.svg)](https://github.com/XAMPPRocky/tokei)
 [![GitHubCodeSize](https://img.shields.io/github/languages/code-size/johnsonjh/OldCurve25519ScalarMult.svg)](https://github.com/johnsonjh/OldCurve25519ScalarMult)
-[![Coverage Status](https://coveralls.io/repos/github/johnsonjh/OldCurve25519ScalarMult/badge.svg?branch=main)](https://coveralls.io/github/johnsonjh/OldCurve25519ScalarMult?branch=main)
+[![CoverageStatus](https://coveralls.io/repos/github/johnsonjh/OldCurve25519ScalarMult/badge.svg?branch=main)](https://coveralls.io/github/johnsonjh/OldCurve25519ScalarMult?branch=main)
+[![LgtmAlerts](https://img.shields.io/lgtm/alerts/g/johnsonjh/OldCurve25519ScalarMult.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/johnsonjh/OldCurve25519ScalarMult/alerts/)
 
